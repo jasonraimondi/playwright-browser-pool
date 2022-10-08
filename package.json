@@ -1,0 +1,19 @@
+{
+  "name": "playwright-browser-pool",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "ts-node-dev src/main.ts"
+  },
+  "dependencies": {
+    "generic-pool": "^3.9.0",
+    "playwright": "^1.15.2"
+  },
+  "devDependencies": {
+    "@ngneat/falso": "^6.1.0",
+    "@types/generic-pool": "^3.1.11",
+    "@types/node": "^18.8.3",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.8.4"
+  }
+}
