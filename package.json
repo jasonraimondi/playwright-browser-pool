@@ -6,14 +6,13 @@
   },
   "dependencies": {
     "generic-pool": "^3.9.0",
-    "playwright": "^1.15.2"
+    "playwright": "^1.36.1"
   },
   "devDependencies": {
-    "@ngneat/falso": "^6.1.0",
-    "@types/generic-pool": "^3.1.11",
-    "@types/node": "^18.8.3",
+    "@ngneat/falso": "^7.0.1",
+    "@types/node": "^20.4.2",
     "ts-node": "^10.9.1",
     "ts-node-dev": "^2.0.0",
-    "typescript": "^4.8.4"
+    "typescript": "^5.1.6"
   }
 }
